@@ -1,0 +1,16 @@
+05bc5163e1b7b4c414e1c7b74325328c *DESCRIPTION
+59573f5498ad3b3f0c8d51c81a8020f6 *LICENSE
+4ef30eb93a7aee09908bd4d98807c889 *NAMESPACE
+e7c1ae7e3afe6854bbe830a993966239 *R/dependencies.R
+3b62696133a33494415c8fdaabb239e3 *R/options.R
+92e395be1ede25a3e281c8bd66515771 *R/timeline.R
+540e807abed0063952b7704e37932db8 *README.md
+e7467add89c235bcadd5b3c7602a4e4d *inst/examples/example_leaftime.R
+2f410b1347e10f1435494ed4f33c35ca *inst/www/Leaflet.timeline/leaflet.timeline.js
+b20e523ccdf9156791f6556bfbb56eb3 *inst/www/binding/leaftime-binding.css
+fd9c5ee5b35e3a1e81f44970f9517ec5 *inst/www/binding/leaftime-binding.js
+b03b473e19087203f6a138e6280adc17 *man/addTimeline.Rd
+03e2eb2d5eced34b660c343146dfe574 *man/leaftimeDependency.Rd
+ba2b45bc34cf888f125728de6343e6fb *man/sliderOptions.Rd
+d9d83d187bd040c74282d0cad5d55be6 *man/styleOptions.Rd
+b20b7b240e0016a5faf7c4c7274e8825 *man/timelineOptions.Rd

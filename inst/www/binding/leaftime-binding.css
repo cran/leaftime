@@ -1,0 +1,18 @@
+.html-widget .leaflet-control.leaflet-timeline-control {
+  /* 250px seems to be smallest without jumping width */
+  width: 250px;
+}
+
+.html-widget .leaflet-control.leaflet-timeline-control .sldr-ctrl-container {
+  width: 48%;
+  display: inline-block;
+}
+
+.html-widget .leaflet-control.leaflet-timeline-control input[type=range] {
+  width: 45%;
+}
+
+/* for IE turn off tooltip over slider */
+input[type=range]::-ms-tooltip {
+    display: none;
+}
